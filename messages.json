@@ -10,5 +10,11 @@
         "title": "Minor update",
         "body": "Bug fixes and performance improvements.",
         "timestamp": "2025-06-25T08:00:00Z"
+    },
+    {
+        "id": "msg-003",
+        "title": "TEst message",
+        "body": "testing testing.",
+        "timestamp": "2025-06-25T11:00:00Z"
     }
 ]
