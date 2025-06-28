@@ -1,20 +1,8 @@
 [
     {
-        "id": "msg-001",
-        "title": "New feature: Tags!",
-        "body": "You can now add tags to your chats in the Premium version.",
-        "timestamp": "2025-06-24T10:00:00Z"
-    },
-    {
-        "id": "msg-002",
-        "title": "Minor update",
-        "body": "Bug fixes and performance improvements.",
-        "timestamp": "2025-06-25T08:00:00Z"
-    },
-    {
-        "id": "msg-003",
-        "title": "TEst message",
-        "body": "testing testing.",
-        "timestamp": "2025-06-25T11:00:00Z"
+        "id": "msg-004",
+        "title": "New release: 1.1.0!",
+        "body": "We have released v1.1.0! Now you can move both folders and chats between your folders.",
+        "timestamp": "2025-06-26T10:00:00Z"
     }
 ]
