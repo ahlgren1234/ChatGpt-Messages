@@ -1,5 +1,17 @@
 [
     {
+        "id": "msg-005",
+        "title": "🚀 Major update: v2.0",
+        "body": "Organize better than ever with:<br />
+• Tags<br />
+• Search<br />
+• PDF export<br />
+• Pinned chats<br />
+<br />
+Premium is now available – lifetime for $9.99!",
+        "timestamp": "2025-07-16T10:00:00Z"
+    },
+    {
         "id": "msg-004",
         "title": "New release: 1.1.0!",
         "body": "We have released v1.1.0! Now you can move both folders and chats between your folders.",
